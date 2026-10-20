@@ -1,0 +1,21 @@
+{
+    "rondas": [],
+    "configuracao": {
+        "atualizacao_segundos": 5,
+        "registrar_historico": true
+    },
+    "status_disponiveis": [
+        "planejada",
+        "em_andamento",
+        "concluida",
+        "cancelada"
+    ],
+    "campos": {
+        "id": true,
+        "guarda_responsavel": true,
+        "data_inicio": true,
+        "data_fim": true,
+        "local_inicial": true,
+        "observacoes": true
+    }
+}

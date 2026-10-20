@@ -1,0 +1,28 @@
+{
+    "dashboard": {
+        "titulo": "Painel de Controle",
+        "atualizacao_segundos": 5
+    },
+    "indicadores": [
+        {
+            "id": "ocorrencias_abertas",
+            "titulo": "Ocorrências Abertas",
+            "ativo": true
+        },
+        {
+            "id": "ocorrencias_em_atendimento",
+            "titulo": "Em Atendimento",
+            "ativo": true
+        },
+        {
+            "id": "guardas_em_ronda",
+            "titulo": "Guardas em Ronda",
+            "ativo": true
+        },
+        {
+            "id": "guardas_indisponiveis",
+            "titulo": "Guardas Indisponíveis",
+            "ativo": true
+        }
+    ]
+}

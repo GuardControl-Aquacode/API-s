@@ -1,0 +1,36 @@
+{
+    "mapa": {
+        "provedor": "OpenStreetMap",
+        "url_tiles": "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+        "centro": {
+            "latitude": -23.5293,
+            "longitude": -47.1356
+        },
+        "zoom_inicial": 14,
+        "zoom_minimo": 5,
+        "zoom_maximo": 19
+    },
+    "patrulhamento": {
+        "atualizacao_segundos": 5,
+        "mostrar_marcadores": true,
+        "mostrar_rastro": true
+    },
+    "marcadores": {
+        "guarda_em_ronda": {
+            "cor": "azul",
+            "descricao": "Guarda em patrulhamento"
+        },
+        "guarda_parado": {
+            "cor": "vermelho",
+            "descricao": "Guarda parado"
+        },
+        "guarda_indisponivel": {
+            "cor": "cinza",
+            "descricao": "Guarda indisponível"
+        }
+    },
+    "api": {
+        "endpoint_localizacao": "/api/v1/localizacao",
+        "endpoint_localizacoes_ativas": "/api/v1/localizacao/ativos"
+    }
+}

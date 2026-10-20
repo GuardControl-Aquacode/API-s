@@ -1,0 +1,20 @@
+{
+    "notificacoes": [],
+    "configuracao": {
+        "ativo": true,
+        "verificar_intervalo_segundos": 5
+    },
+    "tipos": [
+        "nova_ocorrencia",
+        "ocorrencia_atribuida",
+        "ocorrencia_concluida",
+        "ronda_iniciada",
+        "ronda_concluida"
+    ],
+    "prioridades": [
+        "baixa",
+        "media",
+        "alta",
+        "urgente"
+    ]
+}

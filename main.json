@@ -1,0 +1,24 @@
+{
+    "sistema": {
+        "nome": "Sistema de Patrulhamento Municipal",
+        "versao": "1.0.0",
+        "descricao": "Sistema de apoio ao patrulhamento da Guarda Municipal",
+        "ambiente": "desenvolvimento"
+    },
+    "mapa": {
+        "provedor": "OpenStreetMap"
+    },
+    "modulos": {
+        "localizacao": {
+            "ativo": true,
+            "arquivo": "localizacao.json"
+        },
+        "ocorrencias": {
+            "ativo": true,
+            "arquivo": "ocorrencias.json"
+        }
+    },
+    "atualizacao": {
+        "intervalo_segundos": 5
+    }
+}

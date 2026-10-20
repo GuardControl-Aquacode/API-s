@@ -1,0 +1,16 @@
+{
+    "usuarios": [
+        {
+            "id": 1,
+            "matricula": "GM001",
+            "nome": "Guarda Municipal de Teste",
+            "cargo": "Guarda Municipal",
+            "perfil": "guarda",
+            "status": "ativo"
+        }
+    ],
+    "perfis": {
+        "administrador": "Acesso completo ao sistema",
+        "guarda": "Acesso às funções de patrulhamento e ocorrências"
+    }
+}

@@ -53,4 +53,5 @@ Este repositório contém a **API Central** da plataforma **GuardControl**, dese
 
 * **Henrique Sanda Nitsche** — *Engenheiro de Software & Desenvolvedor Back-end*
   * [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hsnitsche)
----bash
+
+## 🎓 Projeto Académico - Facens

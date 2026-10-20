@@ -55,3 +55,4 @@ Este repositório contém a **API Central** da plataforma **GuardControl**, dese
   * [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hsnitsche)
 
 ## 🎓 Projeto Académico - Facens
+Projeto desenvolvido para o curso de Análise e Desenvolvimento de Sistemas (ADS) - **Facens**.
